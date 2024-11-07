@@ -11,8 +11,8 @@ A PHP-based Movie Recommendation System that suggests movies to users based on v
            Project Structure
            Contributing
            License
-           About the Project
-           The Movie Recommendation System aims to provide users with personalized movie recommendations. The system is built using PHP and MySQL, allowing users to receive recommendations based on their preferences and previous interactions. This project is an excellent starting point for anyone looking to understand how recommendation engines work.
+# About the Project
+The Movie Recommendation System aims to provide users with personalized movie recommendations. The system is built using PHP and MySQL, allowing users to receive recommendations based on their preferences and previous interactions. This project is an excellent starting point for anyone looking to understand how recommendation engines work.
 
 # Features:
            User Authentication: Secure login and registration system.
