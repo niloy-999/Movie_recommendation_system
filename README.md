@@ -43,13 +43,14 @@ Make sure you have the following installed:
 ![](scrshots/1.png)
 
 **Admin page**
-![](scrshots/2.jpg)
+![](scrshots/2.png)
 
 **User page**
-![](scrshots/3.jpg)
+![](scrshots/3.png)
 
 **Movie page**
-![](scrshots/4.jpg)
+![](scrshots/4.png)
 
 **movie**
-![](scrshots/5.jpg)
+![](scrshots/5.png)
+
